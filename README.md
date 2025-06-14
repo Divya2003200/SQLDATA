@@ -1,4 +1,4 @@
-uestions I Wanted To Answer From the Dataset:
+Questions I Wanted To Answer From the Dataset:
 1. Which movies and shows on Netflix ranked in the top 10 and bottom 10 based on their IMDB scores?
 Top 10 Movies
 SELECT title, 
